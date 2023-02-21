@@ -1,6 +1,9 @@
 # GANs-project
 GANs Colorisation of black&amp;white Images
 
+<img src="https://socialify.git.ci/Pushkar1853/GANs-project/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light">
+-----
+
 Results
 --------
 ![Image](https://github.com/Pushkar1853/GANs-project/blob/main/main.png)
